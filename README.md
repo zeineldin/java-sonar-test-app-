@@ -1,4 +1,4 @@
-# DevOpsArea Sample Java App -example
+# DevOpsArea Sample Java App with sonarqube example
 Build war with maven and DevOpsArea framework
 
 Steps:
